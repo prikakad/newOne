@@ -9,6 +9,9 @@ package com.newPOS.base;
  */
 public class BaseClass {
 	
-	
+	/**
+	 * @author prikakad
+	 *
+	 */
 
 }
